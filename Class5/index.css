@@ -1,0 +1,26 @@
+/* this is my basics css*/
+h1{
+    color: red;
+}
+#heading{
+    color: green;
+
+}
+div p{
+    color: blue;
+}
+#first{
+    color: purple;
+}
+#second{
+    color: brown;
+}
+#first1{
+    color: blueviolet;
+}
+.second1{
+    color: chartreuse;
+}
+h4, h5{
+    color: aqua;
+}
