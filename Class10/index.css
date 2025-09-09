@@ -1,0 +1,21 @@
+#container{
+    height: 500px;
+    width: 500px;
+    background-color: cadetblue;
+    border: 5px solid;
+}
+
+#first{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    padding: 20px;
+    border: 2px solid red;
+    margin: 10px 20px;
+}
+
+#second{
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+}
